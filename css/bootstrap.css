@@ -1,0 +1,11 @@
+.glyphicon-envelope:before {
+  content: "\2709";
+}
+
+.glyphicon-earphone:before {
+  content: "\e182";
+}
+
+.glyphicon-firet:before {
+  content: "\e1044";
+}
